@@ -7,7 +7,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Preço de casas em Ames", page_icon="🏠", layout="wide")
 st.title("🏠 Quanto vale esta casa?")
-st.caption("App publicado por: SEU NOME")
+st.caption("App publicado por: duduzinho")
 
 
 @st.cache_resource            # carrega o arquivo uma vez só, e não a cada clique

@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Preço de casas em Ames", page_icon="🏠")
 st.title("🏠 Quanto vale esta casa?")
-st.caption("App publicado por: SEU NOME")
+st.caption("App publicado por: duduzinho")
 st.write("Preencha as características da casa. O modelo foi treinado com 1.460 vendas "
          "de Ames (Iowa, EUA), de 2006 a 2010, e o preço sai em dólares.")
 
